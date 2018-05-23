@@ -10,6 +10,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/mqtt" />
+            <option value="$PROJECT_DIR$/mqttLog" />
+            <option value="$PROJECT_DIR$/mqttdebug" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
